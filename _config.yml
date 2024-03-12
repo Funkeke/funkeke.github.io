@@ -104,4 +104,4 @@ deploy:
   type: 'git'
   # repo: 'git@github.com:Funkeke/funkeke.github.io.git'
   repo: 'git@github.com:Funkeke/funkeke.github.io.git'
-  branch: gh-pages
+  branch: 'gh-pages'
