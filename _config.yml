@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: funkeke.github.io
+url: 'https://funkeke.github.io'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme: landscape
 deploy:
   type: 'git'
   # repo: 'git@github.com:Funkeke/funkeke.github.io.git'
-  repo: 'https://github.com/Funkeke/funkeke.github.io'
+  repo: 'git@github.com:Funkeke/funkeke.github.io.git'
   branch: gh-pages
